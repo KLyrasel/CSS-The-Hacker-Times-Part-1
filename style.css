@@ -55,6 +55,6 @@ a{
 .more-articles{
     border-top: 1px ridge grey;
     display:flex;
-    margin:10px;
+    margin:auto;
     
 }
