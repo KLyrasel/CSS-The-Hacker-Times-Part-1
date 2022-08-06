@@ -27,6 +27,8 @@ nav{
     border-top: 1px ridge grey;
     border-bottom: 1px ridge grey;
     font: #777;
+    position:sticky;
+    top:auto;
 }
 header{
     font-family:Abril Fatface;
